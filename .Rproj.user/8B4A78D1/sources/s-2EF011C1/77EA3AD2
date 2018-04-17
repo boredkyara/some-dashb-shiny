@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521017966654.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "29|43|36|2|\n50|31|52|2|\n58|34|60|2|\n62|37|69|2|\n71|27|73|2|\n80|41|82|2|\n94|42|102|2|\n",
+    "hash" : "0",
+    "id" : "77EA3AD2",
+    "lastKnownWriteTime" : 1523532878,
+    "last_content_update" : 1523532878822,
+    "path" : "~/SMA_dashboard/SMA_Dashboard/server.R",
+    "project_path" : "SMA_Dashboard/server.R",
+    "properties" : {
+        "cursorPosition" : "16,24",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

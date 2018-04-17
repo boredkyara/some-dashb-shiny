@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521017966355.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4B746F54",
+    "lastKnownWriteTime" : 1523532910,
+    "last_content_update" : 1523532910121,
+    "path" : "~/SMA_dashboard/SMA_Dashboard/ui.R",
+    "project_path" : "SMA_Dashboard/ui.R",
+    "properties" : {
+        "cursorPosition" : "29,65",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

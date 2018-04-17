@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520330143837.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "22|7|24|0|\n43|36|58|0|\n61|50|80|0|\n82|55|108|0|\n86|3|105|2|\n113|40|127|0|\n129|92|174|0|\n180|70|214|0|\n220|31|224|0|\n226|27|230|0|\n232|23|236|0|\n238|23|242|0|\n244|22|248|0|\n250|22|254|0|\n259|32|265|0|\n267|29|274|0|\n294|29|299|0|\n301|33|314|0|\n316|30|327|0|\n329|33|345|0|\n347|34|356|0|\n358|30|370|0|\n381|58|414|0|\n",
+    "hash" : "0",
+    "id" : "4CD95679",
+    "lastKnownWriteTime" : 1523608625,
+    "last_content_update" : 1523950383082,
+    "path" : "~/SMA_dashboard/global.R",
+    "project_path" : "global.R",
+    "properties" : {
+        "cursorPosition" : "425,0",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "17",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
